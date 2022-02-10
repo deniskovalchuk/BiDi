@@ -1,5 +1,15 @@
 # BiDi
 
+/*‮ } ⁦if (isAdmin)⁩ ⁦ begin admins only */
+    std::cout << "You are an admin." << std::endl;
+/* end admins only ‮ { ⁦*/
+/*‮ } ⁦if (isAdmin)⁩ ⁦ begin admins only */
+    std::cout << "You are an admin." << std::endl;
+/* end admins only ‮ { ⁦*/
+    /*‮ } ⁦if (isAdmin)⁩ ⁦ begin admins only */
+    std::cout << "You are an admin." << std::endl;
+/* end admins only ‮ { ⁦*/
+
 ```
 #include <iostream>
 
